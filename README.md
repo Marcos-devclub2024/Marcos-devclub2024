@@ -17,7 +17,7 @@ Eu sou o Marcos Monteiro, sou programador Front End, atualmente estou aprendendo
 <p align="left">
 
 <a href="https://www.linkedin.com/in/marcos-monteiro-258b08319" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.threads.net/@ev.marcosmonteiro?xmt=AQGzpILCSZxVqPqWLcyPIFLd1W8C4siUJZ6AlM6mesX3pwY" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ev.marcosmonteiro?utm_source=qr&igsh=ZTAwM3dhaTJpeDdu " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
 </p>
 
