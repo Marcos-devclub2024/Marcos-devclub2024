@@ -21,3 +21,5 @@ Eu sou o Marcos Monteiro, sou programador Front End, atualmente estou aprendendo
 
 </p>
 
+![](https://komarev.com/ghpvc/?username=your-github-Marcos-devclub2024)
+
